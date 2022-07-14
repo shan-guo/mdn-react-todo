@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/2022-07-14.iml" filepath="$PROJECT_DIR$/.idea/2022-07-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mdn-react-todo/.idea/mdn-react-todo.iml" filepath="$PROJECT_DIR$/../mdn-react-todo/.idea/mdn-react-todo.iml" />
     </modules>
   </component>
 </project>
